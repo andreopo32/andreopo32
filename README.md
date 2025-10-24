@@ -20,7 +20,7 @@ Sou **Especialista em Linux N3 & Infraestrutura** com ampla experiência em ambi
 - **Sistemas Operacionais**: Linux (Debian, CentOS, Ubuntu)  
 - **Virtualização**: Proxmox, VMware  
 - **Armazenamento Distribuído**: Ceph  
-- **Automação**: Shell Script (Bash), Python  
+- **Automação**: Shell Script (Bash), Python, Ansible  
 - **Versionamento**: Git, GitHub  
 - **Outras**: Docker, Nginx, Apache, MySQL
 
