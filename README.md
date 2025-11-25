@@ -46,7 +46,7 @@ Sou **Especialista em Linux N3 & Infraestrutura** com ampla experiência em ambi
 
 - [LinkedIn](https://www.linkedin.com/in/andreopo/)  
 - [GitHub](https://github.com/andreopo32)  
-- 📧 andreopo32@outlook.com
+- 📧 andre.oliveira26@gmail.com
 
 ---
 
