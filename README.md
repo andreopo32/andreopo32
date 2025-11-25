@@ -17,7 +17,7 @@ Sou **Especialista em Linux N3 & Infraestrutura** com ampla experiência em ambi
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Sistemas Operacionais**: Linux (Debian, CentOS, Ubuntu)  
+- **Sistemas Operacionais**: FreeBSD, Linux (Debian, CentOS, Ubuntu)  
 - **Virtualização**: Proxmox, VMware  
 - **Armazenamento Distribuído**: Ceph  
 - **Automação**: Shell Script (Bash), Python, Ansible  
